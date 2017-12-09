@@ -1,0 +1,19 @@
+{
+  "name": "responge",
+  "version": "0.1.0",
+  "description": "This is a placeholder for now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyinchao/responge.git"
+  },
+  "author": "iyinchao <yincharles@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyinchao/responge/issues"
+  },
+  "homepage": "https://github.com/iyinchao/responge#readme"
+}
